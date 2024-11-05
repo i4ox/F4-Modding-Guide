@@ -25,3 +25,4 @@
 ## Содержание
 
 1. [Mod Organizer 2](./mod-organizer.md)
+2. [BethINI Pie](./bethini-pie.md)
