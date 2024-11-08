@@ -7,7 +7,8 @@
 
 ## Требования
 
-- **Английская копия игры со всеми DLC**.
+- **Английская версия игры, скачанная в Steam**.
+- Издание должно быть **Anniversary Edition**
 - Windows 10 или 11, только 64-разрядные
 - VcRedist Microsoft C++
 - Последние доступные видео драйвера
@@ -26,3 +27,4 @@
 
 1. [Mod Organizer 2](./mod-organizer.md)
 2. [BethINI Pie](./bethini-pie.md)
+3. [Моды](./mods/general.md)
