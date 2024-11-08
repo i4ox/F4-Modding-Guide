@@ -29,10 +29,11 @@
 
 Подключается через MO2.
 
-4. Ниже приведены два плагина для поддержки DLSS в Skyrim.
+4. Ниже приведены два плагина для поддержки DLSS в Skyrim. А также прочие графические расширения для движка.
 
 - [Upscaler Base Plugin](https://www.nexusmods.com/site/mods/502)
 - [Skyrim Upscaler](https://www.nexusmods.com/skyrimspecialedition/mods/80343)
+- [Auto Parallax](https://www.nexusmods.com/skyrimspecialedition/mods/79473) - плагин который автоматически отключает параллакс для мешей, которые имеют отсутствующие текстуры высот или конфликты с шейдерами.
 
 Upscaler Base Plugin установите вручную в каталог игры. Также не забудьте скачать нужные драйвера для видеокарты с поддержкой DLSS.
 
@@ -44,6 +45,7 @@ Upscaler Base Plugin установите вручную в каталог иг�
 - [Paper](https://www.nexusmods.com/skyrimspecialedition/mods/73849) - Еще парочку новых функций к PapyrusUtil.
 - [JContainers](https://www.nexusmods.com/skyrimspecialedition/mods/16495) - Добавляет поддержку JSON структур.
 - [FileAccess Interface for Skyrim SE Scripts - FISSES](https://www.nexusmods.com/skyrimspecialedition/mods/13956) - Позволяет через интерфейс редактировать внутриигровые параметры, нужно для MCM меню.
+- [Recursion Monitor](https://www.nexusmods.com/skyrimspecialedition/mods/76867) - находит сломанные скрипты, которые застряли в рекурсии и предотвращает лаги
 
 Для FileAccess Interface качайте версию для Skyrim SE, а не AE.
 
@@ -59,6 +61,8 @@ Upscaler Base Plugin установите вручную в каталог иг�
 
 7. Парочка фиксов для движка.
 
+- [powerofthrees Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073) - Необходим для работы большинства утилит и модов, патчит некоторые аспекты движка.
+- [SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705) - разблокирует FPS, а также добавит ряд улучшений.
 - [Scaleform Translation Plus Plus NG](https://www.nexusmods.com/skyrimspecialedition/mods/77359) - Позволяет вставить запасной перевод из SkyUI, а также резервные варианты английского языка. Если по какой-то причине нужный текст не был обработан.
 - [Better Jumping](https://www.nexusmods.com/skyrimspecialedition/mods/18967) - Позволяет прыгать во время спринта.
 - [Fuz Ro D-oh](https://www.nexusmods.com/skyrimspecialedition/mods/15109) - Добавляет в игру поддержку не озвученных диалогов.
@@ -75,13 +79,16 @@ Upscaler Base Plugin установите вручную в каталог иг�
 - [FormList Manipulator](https://www.nexusmods.com/skyrimspecialedition/mods/74037) - Позволяет добавлять формы в FormList.
 - [Container Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/99486) - добавляет/убирает предметы и уровневые списки в/из контейнеров.
 - [Object Categorization Framework](https://www.nexusmods.com/skyrimspecialedition/mods/81469) - позволяет распределять предметы по категориям.
+- [Behavior Data Injector](https://www.nexusmods.com/skyrimspecialedition/mods/78146) - позволяет добавлять новые анимации через конфигурационные файлы без патчей через Nemesis.
+- [Behavior Data Injector Universal Support](https://www.nexusmods.com/skyrimspecialedition/mods/78159) - позволяет добавлять новые анимации через конфигурационные файлы без патчей через Nemesis.
 
 Все моды ставятся через MO2.
 
 9. Расширения движка для работы с клавиатурой.
 
 - [Dynamic Key Action Framework NG](https://www.nexusmods.com/skyrimspecialedition/mods/87706) - Позволяет создавать привязку клавиш для анимаций или действий.
-- [dTry's Key Utils](https://www.nexusmods.com/skyrimspecialedition/mods/69944) - Дополняет первый плагин. 
+- [dTry's Key Utils](https://www.nexusmods.com/skyrimspecialedition/mods/69944) - Дополняет первый плагин.
+- [dTry Plugin Updates](https://www.nexusmods.com/skyrimspecialedition/mods/85740) - обновляет dTry плагин до AE.
 - [Auto Input Switch](https://www.nexusmods.com/skyrimspecialedition/mods/54309) - Автоматически меняет управление между мышью и джойстиком.
 
 для dTry's выбирайте SE, а не AE версию.
